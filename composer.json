@@ -1,5 +1,5 @@
 {
-  "name": "outl1ne/nova-grid",
+  "name": "vibar/laravel-nova-grid",
   "description": "A Laravel Nova tool that allows placing fields in a grid using ->size() helpers.",
   "keywords": [
     "laravel",
