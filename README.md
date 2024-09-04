@@ -1,9 +1,4 @@
-# Nova Grid
-
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/vibar/laravel-nova-grid.svg?style=flat-square)](https://packagist.org/packages/vibar/laravel-nova-grid)
-[![Total Downloads](https://img.shields.io/packagist/dt/vibar/laravel-nova-grid.svg?style=flat-square)](https://packagist.org/packages/vibar/laravel-nova-grid)
-
-This [Laravel Nova](https://nova.laravel.com/) package allows you to create simple input filters.
+# Laravel Nova Grid
 
 ## Requirements
 
