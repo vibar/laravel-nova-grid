@@ -1,7 +1,7 @@
 # Nova Grid
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/outl1ne/nova-grid.svg?style=flat-square)](https://packagist.org/packages/outl1ne/nova-grid)
-[![Total Downloads](https://img.shields.io/packagist/dt/outl1ne/nova-grid.svg?style=flat-square)](https://packagist.org/packages/outl1ne/nova-grid)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/vibar/laravel-nova-grid.svg?style=flat-square)](https://packagist.org/packages/vibar/laravel-nova-grid)
+[![Total Downloads](https://img.shields.io/packagist/dt/vibar/laravel-nova-grid.svg?style=flat-square)](https://packagist.org/packages/vibar/laravel-nova-grid)
 
 This [Laravel Nova](https://nova.laravel.com/) package allows you to create simple input filters.
 
@@ -19,7 +19,7 @@ This [Laravel Nova](https://nova.laravel.com/) package allows you to create simp
 Install the package in to a Laravel app that uses [Nova](https://nova.laravel.com) via composer:
 
 ```bash
-composer require outl1ne/nova-grid
+composer require vibar/laravel-nova-grid
 ```
 
 ## Usage
